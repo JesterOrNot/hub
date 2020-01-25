@@ -1,8 +1,5 @@
-image: gitpod/workspace-full
-
 tasks:
   - init: go install && make test-all
-
 vscode:
   extensions:
     - premparihar.gotestexplorer@0.1.10:jvUM8akrQ67vQxfjaxCgCg==
